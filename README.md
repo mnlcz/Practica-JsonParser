@@ -2,7 +2,7 @@
 Implementacion básica de un parser para archivos Json.
 
 # Compilar y Ejecutar
-WINDOWS:
+WINDOWS: <br>
 Luego de clonar: <br>
 cd .\Practica-JsonParser\ <br>
 .\build-run.bat
